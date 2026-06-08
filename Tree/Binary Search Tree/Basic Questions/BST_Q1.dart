@@ -34,7 +34,7 @@ class BST {
   }
 }
 
-void main() {
+void main() {      
   BST bst = BST();
 
   bst.root = bst.insert(bst.root, 10);
